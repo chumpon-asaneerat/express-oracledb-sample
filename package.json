@@ -1,0 +1,23 @@
+{
+  "name": "express-oracledb-sample",
+  "version": "1.0.0",
+  "description": "The express oracle db connection sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumpon-asaneerat/express-oracledb-sample.git"
+  },
+  "author": "Chumpon Asaneerat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chumpon-asaneerat/express-oracledb-sample/issues"
+  },
+  "homepage": "https://github.com/chumpon-asaneerat/express-oracledb-sample#readme",
+  "dependencies": {
+    "@types/oracledb": "^1.11.34",
+    "oracledb": "^3.1.2"
+  }
+}

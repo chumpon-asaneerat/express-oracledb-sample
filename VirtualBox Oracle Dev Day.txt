@@ -1,0 +1,3 @@
+1. after imports Linux VM into VirtualBox set Network Adaptor to Bridge and allow all access.
+2. In Linux VM try sqlplus user:hr password:oracle if connect success quit sqlplus
+3. In Linux VM open terminal and call ifconfig to get actual IP Address assigned by DHCP.
